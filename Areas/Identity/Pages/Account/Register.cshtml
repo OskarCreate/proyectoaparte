@@ -1,0 +1,93 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Create a new account.</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-group">
+            <label asp-for="Input.Nombres"></label>
+            <input asp-for="Input.Nombres" class="form-control" maxlength="50" />
+            <span asp-validation-for="Input.Nombres" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+            <label asp-for="Input.Apellidos"></label>
+            <input asp-for="Input.Apellidos" class="form-control" maxlength="50" />
+            <span asp-validation-for="Input.Apellidos" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="Input.DNI"></label>
+                <input asp-for="Input.DNI" class="form-control" maxlength="8" minlength="8" pattern="\d{8}" />
+                <span asp-validation-for="Input.DNI" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+            <label asp-for="Input.FechaNacimiento"></label>
+            <input asp-for="Input.FechaNacimiento" class="form-control" type="date" />
+            <span asp-validation-for="Input.FechaNacimiento" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Input.Telefono"></label>
+            <input asp-for="Input.Telefono" class="form-control" maxlength="9" pattern="\d{9}" />
+            <span asp-validation-for="Input.Telefono" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.Password">Password</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Input.Ubigeo"></label>
+            <input asp-for="Input.Ubigeo" class="form-control" maxlength="6" pattern="\d{6}" />
+            <span asp-validation-for="Input.Ubigeo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Input.Distrito"></label>
+            <input asp-for="Input.Distrito" class="form-control" maxlength="50" />
+            <span asp-validation-for="Input.Distrito" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Input.RazonSocial"></label>
+            <input asp-for="Input.RazonSocial" class="form-control" maxlength="100" />
+            <span asp-validation-for="Input.RazonSocial" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Input.CargoLaboral"></label>
+            <input asp-for="Input.CargoLaboral" class="form-control" maxlength="50" />
+            <span asp-validation-for="Input.CargoLaboral" class="text-danger"></span>
+            </div>
+            
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Registrarse</button>
+        </form>
+    </div>
+    
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

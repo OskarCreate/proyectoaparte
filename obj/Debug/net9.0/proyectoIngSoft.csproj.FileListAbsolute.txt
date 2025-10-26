@@ -1,0 +1,782 @@
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.csproj.AssemblyReference.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.AssemblyInfoInputs.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.AssemblyInfo.cs
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.RazorAssemblyInfo.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.RazorAssemblyInfo.cs
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.sourcelink.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\appsettings.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.staticwebassets.runtime.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.staticwebassets.endpoints.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\app.db
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.exe
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.deps.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.runtimeconfig.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\proyectoIngSoft.pdb
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\scopedcss\bundle\proyectoIngSoft.styles.css
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\scopedcss\projectbundle\proyectoIngSoft.bundle.scp.css
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ew8d3is3en-th0ii6auo8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ts7n49f7uj-ee6mkrkbl0.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\v7878w66d1-9f0qrp9zx7.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\n2shdywuqt-3k7bzyrdgz.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\28sz42v30r-61n19gt1b8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\968pead7wz-peq2137i35.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\kh0rherb41-bqjiyaj88i.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\6onszv05c7-c2jlpeoesf.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\bcao18ojoe-erw9l3u2r3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\5zji5rkm3t-aexeepp0ev.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\icz18c6n2v-d7shbmvgxk.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\qsik3ssjt8-ausgxo2sd3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\nxv33lyfxo-k8d9w2qqmf.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ubw3in1iju-cosvhxvwiu.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\f92rwc823j-ub07r2b239.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\1rup2utwqe-fvhpjtyr6v.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\lskfqulvjh-b7pk76d08c.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\htx9lt0yov-fsbi9cje9m.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\f4fnji95xh-rzd6atqjts.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\7klywtmmrg-ee0r1s7dh0.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\5y2am32u0j-dxx9fxp4il.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\pog70pjtst-jd9uben2k1.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\k72pqbi45m-khv3u5hwcm.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\q1a44ecvd5-r4e9w2rdcm.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\y809gsdr00-lcd1t2u6c8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\ime84kzxxh-c2oey78nd0.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\qrc0r8zcfz-tdbxkamptv.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\8x9x4pxwdl-j5mq2jizvt.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\47kf2pzn15-06098lyss8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\9xe51huear-nvvlpmu67g.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\eikhxsyyyr-s35ty4nyc5.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\3i6e8ezf7c-pj5nd1wqec.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\nil6ovlhsc-46ein0sx1k.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\rm0ou7brnp-v0zj4ognzu.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\txjh9bsjmm-37tfw0ft22.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\i1wyq0utdt-hrwsygsryq.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\4ud3iyjpzb-pk9g2wxc8p.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\usnlr95vag-ft3s53vfgj.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\0cvpgo1agj-6cfz1n2cew.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\2bq2ha3rrd-6pdc2jztkx.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\fxpa2y13su-493y06b0oq.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\5vrxpepcl7-iovd86k7lj.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\21u5qvr3a2-vr1egmr9el.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\jgdqvxnlq5-kbrnm935zg.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\62uaubbq2g-jj8uyg4cgr.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\6ajqqu7il5-y7v9cxd14o.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\xyobrxnot6-notf2xhcfb.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\4b5j03rq3d-h1s4sie4z3.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\7bi4jo9av7-63fj8s7r0e.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\9pl1azzsd3-0j3bgjxly4.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\altpgtxuf0-47otxtyo56.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\8m21vlliub-4v8eqarkd7.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\67x96pzz4h-l3n5xuwxn8.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\hyiu4mk0vl-ilo7uva0vt.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\1f6c2xcnyv-qlccset4i1.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\435ewzr6nn-lzl9nlhx6b.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\nojz4bj3v6-ag7o75518u.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\e6bot4diox-xzw0cte36n.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\lx6gb0q1g8-0i3buxo5is.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\95uzqoe260-o1o13a6vjx.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\bw9qw8hk5a-ttgo8qnofa.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\qz1om8b4cv-2z0ns9nrw6.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\wtppdnrnfj-muycvpuwrr.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\cfhxbq65dc-87fc7y1x7t.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\tf6qj3dwzc-jfsiqqwiad.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\zbawxwuloo-vstxwux2n1.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\compressed\7actitge3d-vstxwux2n1.gz
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyecto.EFB466ED.Up2Date
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\refint\proyectoIngSoft.dll
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.pdb
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\proyectoIngSoft.genruntimeconfig.cache
+C:\Users\Miguel Cabrera\Desktop\proyectoIngSoft-correccion-hu25\obj\Debug\net9.0\ref\proyectoIngSoft.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.csproj.AssemblyReference.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.AssemblyInfoInputs.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.AssemblyInfo.cs
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.csproj.CoreCompileInputs.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.MvcApplicationPartsAssemblyInfo.cs
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.MvcApplicationPartsAssemblyInfo.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.RazorAssemblyInfo.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.RazorAssemblyInfo.cs
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.sourcelink.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\refint\proyectoIngSoft.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.pdb
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\appsettings.Development.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\app.db
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\appsettings.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.staticwebassets.runtime.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.staticwebassets.endpoints.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.exe
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.deps.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.runtimeconfig.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\proyectoIngSoft.pdb
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Humanizer.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Build.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Npgsql.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Common.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.CodeDom.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\scopedcss\bundle\proyectoIngSoft.styles.css
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\scopedcss\projectbundle\proyectoIngSoft.bundle.scp.css
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ew8d3is3en-cgr9fmltdf.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ts7n49f7uj-zw1jejf7j0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\v7878w66d1-ym0y7mhe7w.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\n2shdywuqt-xmcwek153q.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\28sz42v30r-61n19gt1b8.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\968pead7wz-eo6kyzmtv9.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\kh0rherb41-t1cqhe9u97.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\6onszv05c7-c2jlpeoesf.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\bcao18ojoe-sejl45xvog.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\5zji5rkm3t-aexeepp0ev.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\icz18c6n2v-xvp3kq03qx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\qsik3ssjt8-ausgxo2sd3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\nxv33lyfxo-22vffe00uq.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ubw3in1iju-cosvhxvwiu.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\f92rwc823j-qesaa3a1fm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\1rup2utwqe-fvhpjtyr6v.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\lskfqulvjh-tmc1g35s3z.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\htx9lt0yov-fsbi9cje9m.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\f4fnji95xh-rxsg74s51o.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\7klywtmmrg-ee0r1s7dh0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\5y2am32u0j-q9ht133ko3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\pog70pjtst-jd9uben2k1.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\k72pqbi45m-gye83jo8yx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\q1a44ecvd5-r4e9w2rdcm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\y809gsdr00-wl58j5mj3v.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\ime84kzxxh-c2oey78nd0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\qrc0r8zcfz-d4r6k3f320.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\8x9x4pxwdl-j5mq2jizvt.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\47kf2pzn15-keugtjm085.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\9xe51huear-nvvlpmu67g.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\eikhxsyyyr-zub09dkrxp.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\3i6e8ezf7c-pj5nd1wqec.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\nil6ovlhsc-43atpzeawx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\rm0ou7brnp-v0zj4ognzu.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\txjh9bsjmm-ynyaa8k90p.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\i1wyq0utdt-hrwsygsryq.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\4ud3iyjpzb-c63t5i9ira.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\usnlr95vag-ft3s53vfgj.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\0cvpgo1agj-4094rpi4f9.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\2bq2ha3rrd-6pdc2jztkx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\fxpa2y13su-hd3gran6i8.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\5vrxpepcl7-iovd86k7lj.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\21u5qvr3a2-ltid2c489k.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\jgdqvxnlq5-kbrnm935zg.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\62uaubbq2g-8vyfqsqgz1.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\6ajqqu7il5-y7v9cxd14o.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\xyobrxnot6-u9q1upor1n.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\4b5j03rq3d-h1s4sie4z3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\7bi4jo9av7-4d85u1mtcx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\9pl1azzsd3-0j3bgjxly4.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\altpgtxuf0-03hjc8e09r.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\8m21vlliub-48y08845bh.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\67x96pzz4h-356vix0kms.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\hyiu4mk0vl-83jwlth58m.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\1f6c2xcnyv-mrlpezrjn3.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\435ewzr6nn-worgj0nhwm.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\nojz4bj3v6-gk0pw8i4co.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\e6bot4diox-x0q3zqp4vz.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\lx6gb0q1g8-d6nrnj6jjx.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\95uzqoe260-m9qm4tazc0.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\bw9qw8hk5a-ttgo8qnofa.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\qz1om8b4cv-jjsuc0puko.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\wtppdnrnfj-9vr69e8ynj.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\cfhxbq65dc-87fc7y1x7t.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\tf6qj3dwzc-mlv21k5csn.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\zbawxwuloo-vstxwux2n1.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\compressed\7actitge3d-vstxwux2n1.gz
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\staticwebassets.build.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\staticwebassets.development.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyecto.EFB466ED.Up2Date
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\proyectoIngSoft.genruntimeconfig.cache
+C:\proyecto software II\proyectIngSoft14\proyectoIngSoft\obj\Debug\net9.0\ref\proyectoIngSoft.dll

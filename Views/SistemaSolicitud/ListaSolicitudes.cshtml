@@ -1,0 +1,373 @@
+@model List<proyectoIngSoft.Models.Lista>
+@{
+    ViewData["Title"] = "Comprobar con ESSALUD";
+    var pendientes = ViewBag.Pendientes as List<proyectoIngSoft.Models.Lista>;
+    var procesadas = ViewBag.Procesadas as List<proyectoIngSoft.Models.Lista>;
+}
+
+<div class="page-wrapper p-3">
+
+    <div class="topbar d-flex align-items-center justify-content-between mb-3">
+        <div class="d-flex align-items-center gap-3">
+            <a href="javascript:history.back()" class="text-muted">&larr; Volver</a>
+            <div>
+                <h3 class="mb-0">Comprobar con ESSALUD</h3>
+                <small class="text-muted">Lista de descansos médicos para comprobar con ESSALUD</small>
+            </div>
+        </div>
+
+        <div>
+            <button id="btn-process-essalud" class="btn btn-dark rounded-pill px-4">
+                Procesar con ESSALUD (<span id="selected-count">0</span>)
+            </button>
+        </div>
+    </div>
+
+    <!-- 🔹 Lista de Pendientes -->
+    <h5 class="mt-4 mb-3">Pendientes de procesar</h5>
+    <div class="card lista-card mb-4">
+        <div class="card-body">
+            <table class="table table-hover align-middle lista-table mb-0" id="tablaPendientes">
+                <thead>
+                    <tr>
+                        <th style="width:48px"></th>
+                        <th>Empleado</th>
+                        <th>DNI</th>
+                        <th>Razón del Descanso</th>
+                        <th>Fecha Registro</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (pendientes != null && pendientes.Any())
+                    {
+                        foreach (var item in pendientes)
+                        {
+                            <tr data-id="@item.IdDescanso">
+                                <td><input type="checkbox" class="row-select" data-id="@item.IdDescanso" /></td>
+                                <td><strong>@item.Username @item.Apellidos</strong></td>
+                                <td>@item.Dni</td>
+                                <td>@item.Observaciones</td>
+                                <td>@item.FechaSolicitud.ToString("dd/MM/yyyy")</td>
+                                <td class="estado-cell"><span class="badge bg-light text-dark">En Proceso</span></td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr><td colspan="6" class="text-muted text-center py-3">No hay solicitudes pendientes.</td></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- 🔹 Lista de Procesadas -->
+    <h5 class="mt-4 mb-3">Procesadas</h5>
+    <div class="card lista-card">
+        <div class="card-body">
+            <table class="table table-hover align-middle lista-table mb-0" id="tablaProcesadas">
+                <thead>
+                    <tr>
+                        <th>Empleado</th>
+                        <th>DNI</th>
+                        <th>Razón del Descanso</th>
+                        <th>Fecha Registro</th>
+                        <th>Resultado ESSALUD</th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyProcesadas">
+                    @if (procesadas != null && procesadas.Any())
+                    {
+                        foreach (var item in procesadas)
+                        {
+                            <tr data-id="@item.IdDescanso">
+                                <td><strong>@item.Username @item.Apellidos</strong></td>
+                                <td>@item.Dni</td>
+                                <td>@item.Observaciones</td>
+                                <td>@item.FechaSolicitud.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    @if (item.Estado == "Válido")
+                                    {
+                                        <span class="badge bg-success">Válido</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">No válido</span>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr><td colspan="5" class="text-muted text-center py-3">Aún no hay solicitudes procesadas.</td></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+            <!-- Confirm modal -->
+            <div class="modal fade" id="confirmProcessModal" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content rounded-3">
+                        <div class="modal-body text-center p-4">
+                            <h5>Procesar con ESSALUD</h5>
+                            <p>¿Deseas procesar las <strong><span id="modal-selected-count">0</span></strong> solicitudes seleccionadas con ESSALUD?</p>
+                            <p class="text-muted small">El sistema asignará aleatoriamente un estado (Válido / No válido) para cada solicitud (simulación).</p>
+                            <div class="d-grid gap-2">
+                                <button id="confirm-process-btn" class="btn btn-primary">CONFIRMAR PROCESAMIENTO</button>
+                                <button class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancelar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- HU-07 modal (simulado) -->
+            <div class="modal fade" id="hu07Modal" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">HU-07 Revisión de solicitudes</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr><th>ID</th><th>Empleado</th><th>Resultado</th><th>Observación</th></tr>
+                                    </thead>
+                                    <tbody id="hu07-summary-body"><tr><td colspan="4" class="text-muted">Resultados generados en la tabla principal.</td></tr></tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @section Scripts {
+<script>
+(function(){
+    // 🔹 Referencias a elementos de la interfaz
+    const selectAllTop = document.getElementById('select-all-top');
+    const rowSelector = '.row-select';
+    const selectedCountEl = document.getElementById('selected-count');
+    const selectedBadge = document.getElementById('selected-badge');
+    const totalCountEl = document.getElementById('total-count');
+    const btnProcess = document.getElementById('btn-process-essalud');
+    const modalSelectedCount = document.getElementById('modal-selected-count');
+    const hu07Body = document.getElementById('hu07-summary-body');
+
+    // 🔹 Nueva tabla para solicitudes procesadas
+    let tablaProcesadas = document.getElementById('tabla-procesadas');
+    if (!tablaProcesadas) {
+        // Si no existe, la creamos dinámicamente debajo de la actual
+        const contenedor = document.createElement('div');
+        contenedor.classList.add('mt-5');
+        contenedor.innerHTML = `
+            <h5 class="mb-3">Solicitudes Procesadas</h5>
+            <div class="card lista-card">
+                <div class="card-body">
+                    <table class="table table-hover align-middle lista-table mb-0" id="tabla-procesadas">
+                        <thead>
+                            <tr>
+                                <th>Empleado</th>
+                                <th>DNI</th>
+                                <th>Razón del Descanso</th>
+                                <th>Fecha Registro</th>
+                                <th>Resultado ESSALUD</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbodyProcesadas">
+                            <tr><td colspan="5" class="text-center text-muted py-3">Aún no hay solicitudes procesadas.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>`;
+        document.querySelector('.page-wrapper').appendChild(contenedor);
+        tablaProcesadas = document.getElementById('tabla-procesadas');
+    }
+
+    // 🔹 Funciones auxiliares
+    function rows(){ return Array.from(document.querySelectorAll(rowSelector)); }
+    function updateUI(){
+        const sel = rows().filter(r=>r.checked).length;
+        selectedCountEl.textContent = sel;
+        modalSelectedCount.textContent = sel;
+        if(sel>0){ 
+            selectedBadge.style.display='inline-block'; 
+            selectedBadge.textContent = sel+' seleccionadas'; 
+        } else { 
+            selectedBadge.style.display='none'; 
+        }
+        btnProcess.disabled = sel===0;
+    }
+
+    // 🔹 Checkbox general
+    selectAllTop?.addEventListener('change', function(){
+        rows().forEach(cb=>{ if(!cb.disabled) cb.checked = this.checked; });
+        updateUI();
+    });
+
+    // 🔹 Checkbox individuales
+    document.addEventListener('change', function(e){
+        if(e.target && e.target.matches(rowSelector)){
+            if(!e.target.checked) selectAllTop.checked = false;
+            if(rows().length>0 && rows().filter(r=>!r.disabled).every(r=>r.checked)) selectAllTop.checked = true;
+            updateUI();
+        }
+    });
+
+    // 🔹 Abrir modal de confirmación
+    btnProcess?.addEventListener('click', function(){
+        const sel = rows().filter(r=>r.checked).length;
+        modalSelectedCount.textContent = sel;
+        const m = new bootstrap.Modal(document.getElementById('confirmProcessModal'));
+        m.show();
+    });
+
+    // 🔹 Confirmar procesamiento ESSALUD
+    document.getElementById('confirm-process-btn')?.addEventListener('click', function(){
+        const confirmModalEl = document.getElementById('confirmProcessModal');
+        const inst = bootstrap.Modal.getInstance(confirmModalEl);
+        if(inst) inst.hide();
+
+        const selected = rows().filter(r=>r.checked && !r.disabled);
+        hu07Body.innerHTML = ''; // limpiar resumen
+
+        const updates = [];
+        const tbodyProcesadas = document.getElementById('tbodyProcesadas');
+        if (tbodyProcesadas) tbodyProcesadas.innerHTML = '';
+
+        selected.forEach(cb => {
+            const id = cb.dataset.id;
+            const tr = document.querySelector(`tr[data-id="${id}"]`);
+            if (!tr) return;
+
+            const valido = Math.random() < 0.7;
+            const estadoTexto = valido ? "Válido" : "No válido";
+            const essBadge = valido ? '<span class="badge bg-success">Válido</span>' : '<span class="badge bg-danger">No válido</span>';
+
+            // 🔹 Actualizar celda de estado en la lista principal
+            const estadoCell = tr.querySelector('.estado-cell');
+            if (estadoCell) estadoCell.innerHTML = essBadge;
+
+            // 🔹 Añadir fila al resumen temporal (HU-07)
+            const empleado = tr.children[1]?.innerText?.trim() || '';
+            const row = document.createElement('tr');
+            row.innerHTML = `<td>${id}</td><td>${empleado}</td><td>${estadoTexto}</td><td>${estadoTexto === "Válido" ? "Solicitud validada" : "Solicitud no válida"}</td>`;
+            hu07Body.appendChild(row);
+
+            // 🔹 Añadir fila a tabla procesadas
+            const filaProcesada = document.createElement('tr');
+            filaProcesada.innerHTML = `
+                <td>${empleado}</td>
+                <td>${tr.children[2].innerText}</td>
+                <td>${tr.children[3].innerText}</td>
+                <td>${tr.children[5].innerText}</td>
+                <td>${essBadge}</td>`;
+            tbodyProcesadas.appendChild(filaProcesada);
+
+            // 🔹 Quitar de lista principal
+            tr.remove();
+
+            // 🔹 Añadir al array de actualización
+            updates.push({ idDescanso: parseInt(id), estado: estadoTexto });
+        });
+
+        // 🔹 Guardar en la base de datos
+        fetch('/SistemaSolicitud/ActualizarEstadosESSALUD', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(updates)
+        })
+        .then(res => res.ok ? res.json() : Promise.reject("Error al guardar estados"))
+        .then(resp => {
+            console.log("✔️ Estados guardados:", resp);
+        })
+        .catch(err => {
+            console.error("❌ Error al guardar:", err);
+        });
+
+        // 🔹 Reset de selección
+        selectAllTop.checked = false; 
+        updateUI();
+
+        // 🔹 Mostrar modal HU-07 (resumen temporal)
+        const hm = new bootstrap.Modal(document.getElementById('hu07Modal'));
+        hm.show();
+
+        // 🔹 Después de 1 segundo, mostrar modal de ListaController (tu flujo previo)
+        setTimeout(() => {
+            hm.hide();
+
+            const modalBody = document.getElementById("modalListaBody");
+            if(modalBody){
+                modalBody.innerHTML = `
+                    <div class="text-center text-muted py-5">
+                        <div class="spinner-border text-primary" role="status"></div>
+                        <p class="mt-2">Cargando interfaz de revisión...</p>
+                    </div>
+                `;
+
+                fetch("/Lista/Index")
+                    .then(res => {
+                        if (!res.ok) throw new Error("Error al cargar la vista Lista/Index");
+                        return res.text();
+                    })
+                    .then(html => {
+                        modalBody.innerHTML = html;
+                    })
+                    .catch(err => {
+                        modalBody.innerHTML = `
+                            <div class="alert alert-danger text-center">
+                                ⚠️ No se pudo cargar la vista de revisión.<br>${err.message}
+                            </div>
+                        `;
+                    });
+
+                const modalLista = new bootstrap.Modal(document.getElementById('modalLista'));
+                modalLista.show();
+            }
+        }, 1000);
+    });
+
+    // Inicializar contador
+    updateUI();
+})();
+</script>
+
+
+
+                <style>
+                    /* Card and table styling to match screenshots */
+                    .lista-card { border-radius:12px; box-shadow: 0 2px 8px rgba(22,28,36,0.06); }
+                    .lista-table thead th { border-bottom: none; font-weight:600; color:#46505A; }
+                    .lista-table tbody tr { border-bottom: 1px solid #f1f3f5; }
+                    .lista-table tbody tr:hover { background: #fbfdff; }
+                    .pill-essalud { background:#fff3cd; color:#8a6d00; padding:6px 10px; border-radius:12px; display:inline-block; }
+                    .select-all-row { border:1px solid #eef2f5; padding:12px 16px; border-radius:8px; }
+                    .lista-card .card-body { padding:16px; }
+                    .topbar h3 { font-size:18px; margin-bottom:0; }
+                    .dot { display:inline-block; }
+                    .badge.bg-primary { background:#1f6feb; }
+                    input[type=checkbox] { width:18px; height:18px; }
+                        /* Ocultar visualmente la columna ESSALUD pero mantener en DOM */
+                        .lista-table thead th:nth-child(9),
+                        .lista-table tbody td.essalud-cell {
+                            display: none !important;
+                        }
+
+                </style>
+            }
+
+
+
+
+</style>

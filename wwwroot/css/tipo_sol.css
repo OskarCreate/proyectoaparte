@@ -1,0 +1,190 @@
+:root {
+  --main-radius: 15px;
+  --card-radius: 12px;
+  --max-width: 950px;
+  --gap: 18px;
+  --shadow-soft: 0 8px 18px rgba(15, 23, 42, 0.06);
+  --shadow-subtle: 0 4px 10px rgba(15, 23, 42, 0.04);
+  --icon-size: 56px;
+  --transition: 200ms cubic-bezier(0.2, 0.9, 0.2, 1);
+}
+
+/* Wrapper centered full viewport */
+.solicitud-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 18px;
+  background: transparent;
+}
+
+/* Card contenedor central */
+.solicitud-card {
+  width: 100%;
+  max-width: var(--max-width);
+  border-radius: var(--main-radius);
+  padding: 28px;
+  box-shadow: var(--shadow-soft), var(--shadow-subtle);
+  background: #fff;
+  border: 1px solid rgba(20, 20, 20, 0.03);
+}
+
+/* Titulo centrado */
+.solicitud-card .titulo {
+  margin-bottom: 6px;
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.12rem;
+}
+.solicitud-card .subtitulo {
+  text-align: center;
+  color: #6b7280; /* gray-500 */
+  margin-bottom: 18px;
+  font-size: 0.95rem;
+}
+
+/* Grid de tarjetas */
+.tipo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--gap);
+  align-items: stretch;
+}
+
+/* Tarjeta individual (la que se clickea) */
+.type-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+.type-card {
+  position: relative;
+  height: 100%;
+  padding: 48px 18px 26px; /* más espacio arriba por el icono */
+  padding-top: 84px;
+  border-radius: var(--card-radius);
+  box-shadow: none;
+  border: 1px solid rgba(20, 20, 20, 0.03);
+  transition: transform var(--transition), box-shadow var(--transition);
+  cursor: pointer;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* <-- centrado vertical */
+  text-align: center;
+}
+
+/* White circular badge for icon */
+.icon-badge {
+  position: absolute;
+  top: 18px; /* en lugar de -28px */
+  left: 50%;
+  transform: translateX(-50%);
+  width: var(--icon-size);
+  height: var(--icon-size);
+  border-radius: 50%;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 16px rgba(18, 38, 63, 0.08);
+}
+
+/* Icon style inside badge */
+.icon-badge i {
+  font-size: 1.6rem; /* adjust bootstrap-icon size */
+  line-height: 1;
+  color: #1f2937; /* dark */
+}
+
+/* Text inside cards */
+.type-card h5 {
+  margin-top: 18px;
+  margin-bottom: 6px;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #0f172a;
+}
+.type-card p {
+  margin: 0;
+  margin-top: 4px;
+  color: #6b7280;
+  font-size: 0.88rem;
+}
+
+/* Hover / focus */
+.type-card:hover,
+.type-card:focus-within,
+.type-link:focus .type-card {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.1);
+}
+.type-link:focus {
+  outline: none;
+}
+.type-link:focus-visible .type-card {
+  box-shadow: 0 10px 30px rgba(59, 130, 246, 0.12);
+  transform: translateY(-4px);
+  border-color: rgba(59, 130, 246, 0.22);
+}
+
+/* Equal height helper */
+.type-card > .card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+/* Background color classes (usar las que definimos) */
+.bg-enfermedad {
+  background: #e8f0fe;
+}
+.bg-maternidad {
+  background: #ffeaea;
+}
+.bg-paternidad {
+  background: #e9fdf0;
+}
+.bg-fallecimiento {
+  background: #f7f7f7;
+}
+.bg-enferfam {
+  background: #fff0f5;
+}
+.bg-accidente {
+  background: #fff3e0;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .tipo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .solicitud-card {
+    padding: 22px;
+  }
+}
+@media (max-width: 576px) {
+  .tipo-grid {
+    grid-template-columns: 1fr;
+  }
+  .icon-badge {
+    top: -26px;
+    width: 48px;
+    height: 48px;
+  }
+  .type-card {
+    padding: 30px 14px 18px;
+  }
+}
+
+/* Small polish: prevent long descriptions overflow */
+.type-card p {
+  display: block;
+  max-width: 95%;
+  word-wrap: break-word;
+}
