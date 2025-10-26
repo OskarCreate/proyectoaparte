@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using proyectoIngSoft.Data;
 using proyectoIngSoft.Models;
+using proyectoIngSoft.Helpers;
 using System.Linq;
 using System.Security.Claims;
 
@@ -16,39 +17,50 @@ namespace proyectoIngSoft.Controllers
             _context = context;
         }
 
+        // Endpoint de depuración
+        public IActionResult Debug()
+        {
+            var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var userName = User.Identity?.Name;
+            var usuario = _context.DbSetUser.FirstOrDefault(u => u.Email == userName);
+
+            var debug = new
+            {
+                UserIdClaim = userIdClaim ?? "NULL",
+                UserName = userName ?? "NULL",
+                UsuarioEncontrado = usuario != null,
+                IdUser = usuario?.IdUser.ToString() ?? "NULL",
+                TodasLasNotificaciones = _context.Notifications.Select(n => new { n.Id, n.UserId, n.Titulo }).ToList()
+            };
+
+            return Json(debug);
+        }
+
         public IActionResult Index()
         {
-            // Obtener el ID del usuario logueado (según Identity)
-            var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            // Obtener el usuario actual usando el helper
+            var usuario = UserHelper.GetCurrentUser(HttpContext, _context);
 
-            // 🔹 Si el usuario no está logueado o no hay claim, mostramos todas (modo desarrollo)
-            if (string.IsNullOrEmpty(userIdClaim))
+            // Si no hay usuario autenticado, mostrar todas (modo desarrollo)
+            if (usuario == null)
             {
                 var todas = _context.Notifications
                     .OrderByDescending(n => n.Fecha)
                     .ToList();
 
                 ViewBag.NombreUsuario = "Modo Prueba (sin login)";
+                ViewBag.DebugInfo = $"Sin login - Mostrando {todas.Count} notificaciones";
                 return View("Index", todas);
             }
 
-            // Buscar al usuario en T_Usuarios para obtener su IdUser
-            var usuario = _context.DbSetUser
-                .FirstOrDefault(u => u.Email == User.Identity.Name);
-
-            if (usuario == null)
-            {
-                ViewBag.NombreUsuario = "Usuario no encontrado";
-                return View("Index", new List<Notification>());
-            }
-
-            // 🔹 Cargar solo las notificaciones de este usuario
+            // Cargar solo las notificaciones de este usuario
             var notificaciones = _context.Notifications
                 .Where(n => n.UserId == usuario.IdUser.ToString())
                 .OrderByDescending(n => n.Fecha)
                 .ToList();
 
             ViewBag.NombreUsuario = $"{usuario.Username} {usuario.Apellidos}";
+            ViewBag.DebugInfo = $"IdUser: {usuario.IdUser} - Encontradas: {notificaciones.Count} notificaciones";
 
             return View("Index", notificaciones);
         }
