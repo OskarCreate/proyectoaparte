@@ -49,7 +49,6 @@ namespace proyectoIngSoft.Controllers
                     .ToList();
 
                 ViewBag.NombreUsuario = "Modo Prueba (sin login)";
-                ViewBag.DebugInfo = $"Sin login - Mostrando {todas.Count} notificaciones";
                 return View("Index", todas);
             }
 
@@ -60,7 +59,6 @@ namespace proyectoIngSoft.Controllers
                 .ToList();
 
             ViewBag.NombreUsuario = $"{usuario.Username} {usuario.Apellidos}";
-            ViewBag.DebugInfo = $"IdUser: {usuario.IdUser} - Encontradas: {notificaciones.Count} notificaciones";
 
             return View("Index", notificaciones);
         }
